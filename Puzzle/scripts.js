@@ -177,5 +177,5 @@ function finalCheck() {
 }
 
 function redirect(){
-  document.location.href = "https://google.com"
+  document.location.href = "https://angelaflo.github.io/final_es/"
 }
